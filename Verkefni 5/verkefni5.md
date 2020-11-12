@@ -1,7 +1,23 @@
 # Verkefni 5 - Simon Says
 
-Fyrst var mér kennt á Tinkercad, forrit á netinu þar sem þú getur sett upp rafrásir og hannað hulstur fyrir þær.
+Fyrsta skrefið var að hanna box í Tinkercad. Þar bjó ég til opnann kassa sem passar utan um Arduino Uno tölvu án þess að halda henni fastri.
+![Mynd af boxi úr Tinkercad](tinkercadbox.png)
+
+Síðan setti ég solid cylinders í botninn á kassanum þar sem götin á Arduino lenda og setti aðra Cylinders inn í þá og gerði þá holur.
+![Mynd af rafrás úr Tinkercad](tinkercadboxstandoff.png)
+![Mynd af rafrás úr Tinkercad](tinkercadboxstandoffcloseup.png)
+Skrúfur fara inn í Arduino og festast í þessum cylinders og halda því tölvunni kyrri.
+
+Einnig setti ég göt framan á kassann til þess að tengin úr tölvunni geta staðið aðeins út.
+![Mynd af rafrás úr Tinkercad](tinkercadboxsockets.png)
+
+Einnig setti ég grill ("Heatsink") á afturendann á kassanum til þess að heitt loft kemst út úr honum.
+![Mynd af rafrás úr Tinkercad](tinkercadboxheatsink.png)
+
+Svo að lokum hannaði ég lok fyrir kassann sem passar nákvæmlega á.
+![Mynd af rafrás úr Tinkercad](tinkercadboxheatlid.png)
+
+
 
 ![Mynd af rafrás úr Tinkercad](tinkercad2.png)
 ![Mynd af Simon Says rafrás úr Tinkercad](tinkercad1.png)
-![Mynd af boxi úr Tinkercad](tinkercadbox.png)
