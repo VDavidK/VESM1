@@ -15,6 +15,7 @@ Einnig setti ég göt framan á kassann til þess að tengin úr tölvunni geta 
 Einnig setti ég grill ("Heatsink") á afturendann á kassanum til þess að heitt loft kemst út úr honum.
 ![Mynd af rafrás úr Tinkercad](tinkercadboxheatsink.png)
 
+
 Svo að lokum hannaði ég lok fyrir kassann sem passar nákvæmlega á.
 ![Mynd af rafrás úr Tinkercad](tinkercadboxlid.png)
 
