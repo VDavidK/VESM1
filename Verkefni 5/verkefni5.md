@@ -2,4 +2,6 @@
 
 Fyrst var mér kennt á Tinkercad, forrit á netinu þar sem þú getur sett upp rafrásir og hannað hulstur fyrir þær.
 
-![Mynd af rafrás úr Tinkercad](92923cac96df8b319f8d9f5d5e2944e0.png)
+![Mynd af rafrás úr Tinkercad](tinkercad2.png)
+![Mynd af Simon Says rafrás úr Tinkercad](tinkercad1.png)
+![Mynd af boxi úr Tinkercad](tinkercadbox.png)
